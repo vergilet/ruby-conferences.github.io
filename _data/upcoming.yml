@@ -94,6 +94,12 @@
   dates: "September 20-21, 2019"
   url: https://rubyconf.co
   twitter: rubyconfco
+  
+- name: Pivorak Conf. 4.0
+  location: Lviv, Ukraine
+  dates: "Oct 18th, 2019"
+  url: https://pivorak.com/
+  twitter: pivorakmeetup  
 
 - name: RubyConf
   location: Nashville, TN
